@@ -1,0 +1,13 @@
+.card-shadow {
+    border-radius: 30px;
+    /* padding: 0rem 5rem; */
+    box-shadow: 0 20px 20px rgba(0,0,0,0.2) 0 0 50px rgba(0,0,0,0.2);
+}
+
+/* .image {
+    width: 20rem;
+} */
+
+.image-container{
+    display: flex;
+}
